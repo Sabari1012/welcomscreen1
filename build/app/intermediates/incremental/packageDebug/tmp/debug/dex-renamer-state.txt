@@ -1,0 +1,4 @@
+#Mon Aug 31 15:28:37 IST 2020
+base.0=/Users/developer/Documents/GitHub/welcomscreen1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
